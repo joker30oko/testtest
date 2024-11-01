@@ -1,0 +1,6 @@
+django
+requests
+gunicorn
+selenium
+webdriver-manager
+python-dotenv
